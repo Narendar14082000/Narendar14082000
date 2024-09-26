@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java,ReactJS, NodeJS, MangoDB,SQL and React Native**
 
-- 📫 How to reach me **narendarreddypaindla@gmail.com** and also visit my portfolio **<a href="https://narendarpaindla.vercel.app/" target="blank">**
+- 📫 How to reach me **narendarreddypaindla@gmail.com** and also visit my portfolio **https://narendarpaindla.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
