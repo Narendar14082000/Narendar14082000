@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on [VillageBasketApp](Reac)
 
 - 🌱 I’m currently learning **React Native**
+  
+- 💬 I'm A Technical Trainer **( Java / Python DSA)**
 
 - 💬 Ask me about **Java,ReactJS, NodeJS, MangoDB,SQL and React Native**
 
