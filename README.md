@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React Native**
   
-- 💬 I'm A Technical Trainer **( Java / Python DSA)**
+- 💬 I'm a Technical Trainer **( Java / Python DSA)**
 
 - 💬 Ask me about **Java,ReactJS, NodeJS, MangoDB,SQL and React Native**
 
-- 📫 How to reach me **narendarreddypaindla@gmail.com**
+- 📫 How to reach me **narendarreddypaindla@gmail.com** and also visit my portfolio **<a href="https://narendarpaindla.vercel.app/" target="blank">**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
